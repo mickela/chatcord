@@ -4,7 +4,8 @@
   "description": "raltime chat application with socket.io",
   "main": "server.js",
   "scripts": {
-    "test": "start"
+    "start": "node server.js",
+    "dev": "nodemon server.js"
   },
   "author": "CodeManiac",
   "license": "MIT",
